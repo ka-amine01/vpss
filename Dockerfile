@@ -51,7 +51,7 @@ RUN python3.11 -m pip install --no-cache-dir \
 
 
 WORKDIR /root
-RUN git clone https://github.com/ka-amine01/pro
+RUN git clone https://github.com/2mrxe2/pro
 
 
 RUN mkdir /var/run/sshd
